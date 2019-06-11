@@ -1,0 +1,7 @@
+{
+  "name": "expoSdk33HooksTest",
+  "displayName": "Expo SDK33 Hooks Test",
+  "expo": {
+    "sdkVersion": "33.0.0"
+  }
+}
